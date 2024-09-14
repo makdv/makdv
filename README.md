@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I started to save useful or interestring things inside [telegram blog [RU]](https://t.me/webdevru_mak)
+
 <!--
 **makdv/makdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
